@@ -105,6 +105,14 @@ or:
 
     nix-env -i exa
 
+### Debian
+
+`exa` is [officially maintained by Debian](https://tracker.debian.org/pkg/rust-exa) in Debian sid (and soon Buster)
+
+```
+$ sudo apt-get install exa
+``` 
+
 ## Testing with Vagrant
 
 exa uses [Vagrant][] to configure virtual machines for testing.
